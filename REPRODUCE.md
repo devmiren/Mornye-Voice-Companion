@@ -1,4 +1,4 @@
-# Mornye TTS — Reproduction Guide
+# Mornye Voice Companion — Reproduction Guide
 
 This document is written so that **any Claude session can reproduce the current state from scratch**.
 Goal: fine-tune the voice of a specific Korean female speaker (the character "Mornye") and build a

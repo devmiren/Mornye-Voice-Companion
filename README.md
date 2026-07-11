@@ -2,13 +2,14 @@
 
 <img src="./Mornye.png" alt="Mornye" width="420" />
 
-# Mornye TTS
+# Mornye Voice Companion
 
-**A CLI-only voice fine-tuning + auto-play pipeline for a game-character voice — wired into Claude Code.**
+**Give Claude Code a voice *and* a personality — a CLI-only voice fine-tuning + auto-play pipeline
+plus an in-character roleplay persona, all wired into Claude Code.**
 
 Fine-tune a single-speaker voice with [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS), then let a
-Claude Code `Stop` hook speak a short summary of every reply in that voice. No WebUI — every step is a
-CLI script.
+Claude Code `Stop` hook speak a short summary of every reply in that voice. Pair it with the optional
+roleplay persona and Claude both *writes* and *speaks* in character. No WebUI — every step is a CLI script.
 
 ![Platform](https://img.shields.io/badge/platform-Windows%20%2B%20NVIDIA%20GPU-informational)
 ![Engine](https://img.shields.io/badge/engine-GPT--SoVITS%20v2Pro-blueviolet)
