@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026
+Copyright (c) 2026 Miren
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,11 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-Note: These scripts orchestrate and import GPT-SoVITS (https://github.com/RVC-Boss/GPT-SoVITS),
-which is licensed under GPL-3.0, and are not distributed with it. If you bundle or redistribute
-this software together with GPT-SoVITS, the combined work is subject to GPL-3.0.
-Trained voice models and any training/reference audio are NOT covered by this license and are
-for personal, non-commercial use only — do not redistribute them.
