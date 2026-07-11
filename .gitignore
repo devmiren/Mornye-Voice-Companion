@@ -1,0 +1,27 @@
+# ── Third-party package (download separately, GPL-3.0) ──
+GPT-SoVITS-v2pro-20250604/
+*.7z
+7zr.exe
+
+# ── Python env ──
+venv/
+__pycache__/
+*.pyc
+
+# ── Copyrighted data & trained artifacts (DO NOT publish) ──
+data/
+ref/
+out/
+*.wav
+*.flac
+*.m4a
+*.webm
+# trained voice models (derived from copyrighted voice — personal use only)
+*.pth
+*.ckpt
+
+# ── misc ──
+.cache/
+.claude/
+TEMP/
+weight.json
